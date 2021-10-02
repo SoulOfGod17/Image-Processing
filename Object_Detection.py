@@ -58,5 +58,5 @@ while True:
     if key==27:
         break
 
-cap.release()
-cv2.destroyAllWindows()
+# cap.release()
+# cv2.destroyAllWindows()
